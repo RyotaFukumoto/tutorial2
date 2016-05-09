@@ -1,2 +1,2 @@
 Gitの練習
-PushとPull
+福本が追加
